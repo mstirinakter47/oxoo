@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "M:\\App_Develop\\Oxoo\\build\\admob_flutter\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\umarf\\.gradle\\caches\\transforms-3\\1cc2320a449bb9c914f8c0213b2a3a63\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "M:\\App_Develop\\Oxoo\\build\\admob_flutter\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\umarf\\.gradle\\caches\\transforms-3\\1cc2320a449bb9c914f8c0213b2a3a63\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "M:\\App_Develop\\Oxoo\\build\\admob_flutter\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\umarf\\.gradle\\caches\\transforms-3\\1cc2320a449bb9c914f8c0213b2a3a63\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "M:\\App_Develop\\Oxoo\\build\\admob_flutter\\intermediates\\merged_res\\release\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\umarf\\.gradle\\caches\\transforms-3\\7149c93ebc70ff9187342fb28c6e92aa\\transformed\\core-1.6.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "M:\\App_Develop\\Oxoo\\build\\admob_flutter\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\umarf\\.gradle\\caches\\transforms-3\\7149c93ebc70ff9187342fb28c6e92aa\\transformed\\core-1.6.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
